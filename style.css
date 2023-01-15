@@ -1,0 +1,60 @@
+   nav {
+    font-style: oblique;
+   }
+
+   body {
+    background-color: rgb(223, 223, 223);
+    color: rgb(27, 44, 80);
+   }
+   
+   hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(27, 44, 80);
+    border-width: 4px;
+    width: 5%;
+   }
+
+   h1 {
+    font-style: oblique;
+   }
+
+   h2 {
+    color: rgb(0, 190, 253);
+    font-style: oblique;
+   }
+
+   img {
+    border-radius: 100%;
+   }
+
+
+   /*
+   comment out Notes
+   */
+
+   /*******CLASS SELECTORS********/
+
+   .classname {
+
+   }
+
+   .secondclass{
+
+   }
+
+   /* html example
+   <img class="classname secondclass" src="...>
+   */
+
+
+    /*******ID SELECTORS********/
+    /* use in nav bar*/
+
+    #heading {
+
+    }
+
+    /* html example
+   <h1 id="heading"> I LOVE Bacon</h1> 
+   */
