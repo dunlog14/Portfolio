@@ -30,9 +30,6 @@ hr {
     background-color: rgb(223, 223, 223);
    }
 
-.about {
-}
-
    h2 {
     color: rgb(0, 190, 253);
     font-style: oblique;
@@ -79,23 +76,44 @@ hr {
     
 }
 
-.h3 {
-    position: relative;
-    left: 20px;
-}
 
-.contact {
+#contact {
     display: inline-block;
+    align-text: left;
 }
 
 #phone {
+    display: inline-block;
     text-align: center;
 }
 
 #email {
+    display: inline-block;
     text-align: right;
 }
 
-#margin {
-    margin: auto;
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
 }
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:  rgb(0, 190, 253);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(0, 190, 253);
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
