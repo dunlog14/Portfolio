@@ -106,7 +106,7 @@ a:visited {
 }
 
 a:hover {
-  color:  rgb(0, 190, 253);
+  color: rgb(0, 190, 253);
   background-color: transparent;
   text-decoration: underline;
 }
