@@ -75,7 +75,15 @@ hr {
     display: inline-block;
     
 }
-
+.project-four {
+    background-color: rgb(38, 244, 217);
+    width: 45%;
+    height: 200px;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 8px;
+    display: inline-block;
+}
 
 #contact {
     display: inline-block;
@@ -92,7 +100,6 @@ hr {
     text-align: right;
 }
 
-<style>
 a:link {
   color: white;
   background-color: transparent;
@@ -116,4 +123,3 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-</style>
