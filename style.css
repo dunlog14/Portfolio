@@ -84,6 +84,15 @@ hr {
     border-width: 8px;
     display: inline-block;
 }
+.project-five {
+    background-color: rgb(38, 117, 244);
+    width: 45%;
+    height: 200px;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 8px;
+    display: inline-block;
+}
 
 #contact {
     display: inline-block;
